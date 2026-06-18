@@ -1,0 +1,16 @@
+{
+  "site_name": "经典欧美视频",
+  "movies_parsed": 2000,
+  "categories": {
+    "classic-europe-america": 250,
+    "suspense-crime": 250,
+    "drama-romance": 250,
+    "action-adventure": 250,
+    "horror-thriller": 250,
+    "comedy-life": 250,
+    "series-picks": 250,
+    "movie-library": 250
+  },
+  "video_sources_found": 20,
+  "html_pages": 2013
+}
